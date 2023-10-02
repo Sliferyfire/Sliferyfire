@@ -20,13 +20,15 @@
   Mi nombre es Aarón y soy estudiante de Ingeniería en Software en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>, actualmente curso mi 4to cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ### 📘 Resumen Profesional
 
 Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un interés en los sistemas operativos, las redes de Cisco y las tecnologías IoT. Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ### 🛠 Proyectos destacados
 
@@ -38,13 +40,15 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 
    ![LifeWeaver](https://github.com/Sliferyfire/lifeWeaver/blob/main/public/assets/logo%20LW.png)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ### 📚 Educación
 
 - *Ingeniería en Software* en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
@@ -55,19 +59,17 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  |
 | Database |  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
 | Services & Tools| <a href="https://github.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> |
+| Hosting         | <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> |
+| Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
 
-| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
-| Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
-| APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/foursquare-3333FF?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
-| Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> |
-| Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /> |
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
 
 
----
+
 
 ### 📊 Estadísticas
 
@@ -93,7 +95,7 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
----
+
 
 ### ⚙ Herramientas y tecnologías
 
@@ -108,7 +110,8 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
   <img alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ### 💌 Contáctame
 
@@ -121,4 +124,6 @@ Si estás interesado en colaborar o trabajar juntos, ¡estaré encantado de escu
     <a href="https://www.instagram.com/luis.igsi/" target='_blank'>
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram" width="50px" />
     </a>
-</div>
+</div
+
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
