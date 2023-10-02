@@ -1,112 +1,87 @@
-# 👨‍💻 Luis Gonzalez - Desarrollador de Software
+<div align="center">
+  <img src="https://via.placeholder.com/200" alt="Aarón Gonzalez - Desarrollador de Software">
+</div>
 
+<h1 align="center">👨‍💻 Aarón Gonzalez - Desarrollador de Software</h1>
 
-Mi nombre es Luis y soy estudiante de Ingeniería en software en la [UTSJR](https://www.utsjr.edu.mx/), actualmente curso mi 4to cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/tu-twitter">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2" alt="Twitter">
+  </a>
+  <a href="https://github.com/LuisGOSI">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  Mi nombre es Aarón y soy estudiante de Ingeniería en Software en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>, actualmente curso mi 4to cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
+</p>
 
 ---
 
 ### 📘 Resumen Profesional
 
-Soy un estudiante con muchas ganas de crecer en el mundo de la programcuon. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un  interés en los sistemas operativos , las redes de Cisco y las tecnologias IoT . Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
+Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un interés en los sistemas operativos, las redes de Cisco y las tecnologías IoT. Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
 
 ---
 
 ### 🛠 Proyectos destacados
 
-1. *Qrobus*: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](qromovil.onrender.com) | [Código fuente](https://github.com/victoMR/QroMovil)
-2. *GreenWaste*: Aplicación web que nos guia a hacer una mejor gestion de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
+1. **Qrobus**: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](qromovil.onrender.com) | [Código fuente](https://github.com/victoMR/QroMovil)
+
+   ![Qrobus](https://via.placeholder.com/400x200)
+
+2. **GreenWaste**: Aplicación web que nos guía a hacer una mejor gestión de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
+
+   ![GreenWaste](https://via.placeholder.com/400x200)
+
 ---
 
 ### 📚 Educación
 
-- *Ingeniería en Software* en la [UTSJR](https://www.utsjr.edu.mx/)
+- *Ingeniería en Software* en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>
 
 ---
 
 ### 🌟 Habilidades
 
-- *JavaScript*: ⭐⭐
-- *HTML*: ⭐⭐⭐⭐
--  *CSS*: ⭐⭐⭐
+- **JavaScript**: ⭐⭐
+- **HTML**: ⭐⭐⭐⭐
+- **CSS**: ⭐⭐⭐
 - **C++**: ⭐⭐
-- *NODE.JS*: ⭐⭐
-  
+- **NODE.JS**: ⭐⭐
 
-<!-----
-
-### 🗣 Testimonios
-
-> "Comentario sobre tu trabajo o colaboración." 
-> 
-> *Nombre de la persona*
--->
 ---
 
 ### 📊 Estadísticas
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisGOSI&theme=github-compact" alt="Ashutosh's github activity graph" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=LuisGOSI&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="LuisGOSI GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=LuisGOSI&count_private=true&theme=algolia&border_radius=20" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGOSI&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisGOSI&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Aarón Gonzalez GitHub Stats" />
+</div>
 
 ---
 
 ### ⚙ Herramientas y tecnologías
 
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a> 
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a align="center" href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-  </a>
+  <img alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+  <img alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="vscode" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 </div>
 
 ---
 
-
 ### 💌 Contáctame
 
-Si estás interesado en colaborar o trabajar juntos , ¡estaré encantado de escuchar de ti!
+Si estás interesado en colaborar o trabajar juntos, ¡estaré encantado de escuchar de ti!
 
 <div align="center">
     <a href="mailto:ignaciogs.ti22@utsjr.edu.mx" style="margin-right: 5px;">
