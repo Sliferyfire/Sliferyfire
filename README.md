@@ -34,9 +34,9 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 
    ![Qrobus](https://via.placeholder.com/400x200)
 
-2. **GreenWaste**: Aplicación web que nos guía a hacer una mejor gestión de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
+2. **LifeWeaver**: Aplicación web que nos guía a hacer una mejor gestión de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://lifeweaver.onrender.com) | [Código fuente](https://github.com/Sliferyfire/lifeWeaver)
 
-   ![GreenWaste](https://via.placeholder.com/400x200)
+   ![LifeWeaver](https://via.placeholder.com/400x200)
 
 ---
 
@@ -59,7 +59,7 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 ### 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisGOSI&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Aarón Olguín GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sliferyfire&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Aarón Olguín GitHub Stats" />
 </div>
 
 ---
