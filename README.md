@@ -1,24 +1,34 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+<h1 align="center">¡Hola, soy [Tu Nombre]! 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tu-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/tu-twitter)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/tu-usuario)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/tu-twitter">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2" alt="Twitter">
+  </a>
+  <a href="https://github.com/tu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717" alt="GitHub">
+  </a>
+</p>
 
-Soy un [tu título o rol] con experiencia en [áreas relevantes]. Apasionado por [tus intereses o tecnologías favoritas], me encanta aprender y compartir mis conocimientos con la comunidad.
+<p align="center">Soy un [tu título o rol] con experiencia en [áreas relevantes]. Apasionado por [tus intereses o tecnologías favoritas], me encanta aprender y compartir mis conocimientos con la comunidad.</p>
 
 ## Experiencia Laboral
 
-- [Nombre de la empresa](https://www.empresa.com) - Ciudad, País (Fecha de inicio - Fecha de finalización)
+- **[Nombre de la empresa](https://www.empresa.com)** - Ciudad, País (Fecha de inicio - Fecha de finalización)
   - Descripción de tus responsabilidades y logros.
 
-- [Otra empresa](https://www.otraempresa.com) - Ciudad, País (Fecha de inicio - Fecha de finalización)
+- **[Otra empresa](https://www.otraempresa.com)** - Ciudad, País (Fecha de inicio - Fecha de finalización)
   - Descripción de tus responsabilidades y logros.
 
 ## Proyectos Destacados
 
-- [Nombre del Proyecto](https://github.com/tu-usuario/proyecto) - Una breve descripción del proyecto y su importancia.
+- **[![Proyecto 1](https://via.placeholder.com/150)](https://github.com/tu-usuario/proyecto)** [Nombre del Proyecto](https://github.com/tu-usuario/proyecto)
+  - Una breve descripción del proyecto y su importancia.
 
-- [Otro Proyecto](https://github.com/tu-usuario/otro-proyecto) - Una breve descripción del proyecto y su importancia.
+- **[![Proyecto 2](https://via.placeholder.com/150)](https://github.com/tu-usuario/otro-proyecto)** [Otro Proyecto](https://github.com/tu-usuario/otro-proyecto)
+  - Una breve descripción del proyecto y su importancia.
 
 ## Habilidades
 
