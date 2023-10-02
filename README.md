@@ -36,7 +36,7 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 
 2. **LifeWeaver**: Aplicación web que nos guía a hacer una mejor gestión de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://lifeweaver.onrender.com) | [Código fuente](https://github.com/Sliferyfire/lifeWeaver)
 
-   ![LifeWeaver](https://via.placeholder.com/400x200)
+   ![LifeWeaver](https://github.com/Sliferyfire/lifeWeaver/blob/main/public/assets/logo%20LW.png)
 
 ---
 
