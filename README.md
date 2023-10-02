@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://via.placeholder.com/200" alt="Aarón Gonzalez - Desarrollador de Software">
+  <img src="https://via.placeholder.com/200" alt="Aarón Olguín - Desarrollador de Software">
 </div>
 
-<h1 align="center">👨‍💻 Aarón Gonzalez - Desarrollador de Software</h1>
+<h1 align="center">👨‍💻 Aarón Olguín - Desarrollador de Software</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-linkedin">
@@ -59,7 +59,7 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 ### 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisGOSI&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Aarón Gonzalez GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisGOSI&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Aarón Olguín GitHub Stats" />
 </div>
 
 ---
