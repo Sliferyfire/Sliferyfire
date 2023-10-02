@@ -32,7 +32,7 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 
 1. **Qrobus**: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](qromovil.onrender.com) | [Código fuente](https://github.com/victoMR/QroMovil)
 
-   ![Qrobus](https://via.placeholder.com/400x200)
+   ![Qrobus](https://github.com/victoMR/QroMovil/blob/main/public/img/logoCom_1.png)
 
 2. **LifeWeaver**: Aplicación web que nos guía a hacer una mejor gestión de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://lifeweaver.onrender.com) | [Código fuente](https://github.com/Sliferyfire/lifeWeaver)
 
