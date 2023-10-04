@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://via.placeholder.com/200" alt="Aarón Olguín - Desarrollador de Software">
-</div>
-
 <h1 align="center">👨‍💻 Aarón Olguín - Desarrollador de Software</h1>
 
 <p align="center">
@@ -11,7 +7,7 @@
   <a href="https://twitter.com/tu-twitter">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2" alt="Twitter">
   </a>
-  <a href="https://github.com/LuisGOSI">
+  <a href="https://github.com/Sliferyfire">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717" alt="GitHub">
   </a>
 </p>
@@ -20,14 +16,14 @@
   Mi nombre es Aarón y soy estudiante de Ingeniería en Software en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>, actualmente curso mi 4to cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
 
 ### 📘 Resumen Profesional
 
 Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un interés en los sistemas operativos, las redes de Cisco y las tecnologías IoT. Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
 
 ### 🛠 Proyectos destacados
@@ -40,14 +36,14 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 
    ![LifeWeaver](https://github.com/Sliferyfire/lifeWeaver/blob/main/public/assets/logo%20LW.png)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
 
 ### 📚 Educación
 
 - *Ingeniería en Software* en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
@@ -65,7 +61,7 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 | Learning | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Science-000000?style=for-the-badge&logo=data&logoColor=white" /> |
 
   
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
 <br>
 
@@ -111,7 +107,7 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
   <img alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
 
 ### 💌 Contáctame
@@ -119,12 +115,12 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 Si estás interesado en colaborar o trabajar juntos, ¡estaré encantado de escuchar de ti!
 
 <div align="center">
-    <a href="mailto:ignaciogs.ti22@utsjr.edu.mx" style="margin-right: 5px;">
+    <a href="mailto:davidop.ti22@utsjr.edu.mx" style="margin-right: 5px;">
         <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="50px" />
     </a>
-    <a href="https://www.instagram.com/luis.igsi/" target='_blank'>
+    <a href="https://www.instagram.com/aarondavidolguin/" target='_blank'>
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram" width="50px" />
     </a>
 </div
 
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  ---
