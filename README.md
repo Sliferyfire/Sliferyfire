@@ -21,7 +21,7 @@
 
 ### 📘 Resumen Profesional
 
-Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un interés en los sistemas operativos, las redes de Cisco y las tecnologías IoT. Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
+Soy un estudiante en proceso desarrollo en el mundo de la programacion. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un interés en los sistemas operativos, las redes de Cisco y las tecnologías IoT. Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
 
 ---
 
