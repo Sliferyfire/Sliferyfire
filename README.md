@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Mi nombre es Aarón y soy estudiante de Ingeniería en Software en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>, actualmente curso mi 5to cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
+  Mi nombre es Aarón y soy estudiante de Ingeniería en Software en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>, actualmente curso mi 7mo cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
 </p>
 
 ---
