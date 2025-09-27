@@ -80,7 +80,7 @@ Diseñar, desarrollar e implementar soluciones tecnologicas innovadoras a travè
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Sliferyfire github stats](https://github-readme-stats.vercel.app/api?username=Sliferyfire\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Sliferyfire GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sliferyfire&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![Sliferyfire GitHub stats](https://github-readme-stats.vercel.app/api?username=Sliferyfire&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sliferyfire&layout=compact&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
 | -- | -- |
 
 <hr>
