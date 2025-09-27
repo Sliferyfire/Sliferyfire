@@ -80,8 +80,12 @@ Diseñar, desarrollar e implementar soluciones tecnologicas innovadoras a travè
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+<div align="center">
+
 | ![Sliferyfire GitHub stats](https://github-readme-stats.vercel.app/api?username=Sliferyfire&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_radius=8) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sliferyfire&layout=compact&theme=tokyonight&border_radius=8) |
 | -- | -- |
+
+</div>
 
 
 <hr>
