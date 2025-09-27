@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Mi nombre es Aarón y soy estudiante de Ingeniería en Software en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>, actualmente curso mi 7mo cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
+  Mi nombre es Aarón, soy estudiante de Ingeniería en Software en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>, actualmente curso mi 10mo cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
 </p>
 
 ---
@@ -21,27 +21,28 @@
 
 ### 📘 Resumen Profesional
 
-Soy un estudiante en proceso desarrollo en el mundo de la programacion. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un interés en los sistemas operativos, las redes de Cisco y las tecnologías IoT. Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
+Diseñar, desarrollar e implementar soluciones tecnologicas innovadoras a travès de servicios web y aplicaciones moviles con el proceso de automatizar procesos, abordar desafios empresariales, satisfacer necesidades especificas y mejorar la eficiencia de los proyectos. 
 
 ---
 
 
 ### 🛠 Proyectos destacados
 
-1. **Qrobus**: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](qromovil.onrender.com) | [Código fuente](https://github.com/victoMR/QroMovil)
+1. **CySe-Net**: Pagina web desarrollada en Angular y chatbot implementado en DialogFlow para microempresa de San Juan del Rio. [Ver proyecto](https://computacionyservicio.mx/)
+2. **Dashboard energetico**: Dashboard hecho con PyQt para el analisis de graficas de energia electrica. [Codigo fuente](https://github.com/Sliferyfire/Dashboard-energetico)
+3. **RememberMe**: Pastillero y aplicacion movil con comunicacion a modulo ESP32 mediante Buletooth para recordatorios de pastillas. [Codigo Fuente](https://github.com/LuisGOSI/rememberMeExpo49)
+4. **QroMovil**: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Código fuente](https://github.com/victoMR/QroMovil)
+5. **LoboStock**: Aplicacion para gestion de almacenes con niveles de jerarquia para los trabajadores. [Codigo fuente](https://github.com/Sliferyfire/LoboStock) 
+6. **LifeWeaver**: Aplicación web que nos guía a hacer una mejor gestión de residuos mediante manualidades y recomendaciones de su manejo. [Código fuente](https://github.com/Sliferyfire/lifeWeaver)
 
-   ![Qrobus](https://github.com/victoMR/QroMovil/blob/main/public/img/logoCom_1.png)
-
-2. **LifeWeaver**: Aplicación web que nos guía a hacer una mejor gestión de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://lifeweaver.onrender.com) | [Código fuente](https://github.com/Sliferyfire/lifeWeaver)
-
-   ![LifeWeaver](https://github.com/Sliferyfire/lifeWeaver/blob/main/public/assets/logo%20LW.png)
 
 ---
 
 
 ### 📚 Educación
 
-- *Ingeniería en Software* en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>
+- *Ingeniería en Desarrollo y Gestion de Software* en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>
+- *TSU en TI Area Desarrollo de Software* en la <a href="https://www.utsjr.edu.mx/">UTSJR</a>
 
 ---
 
@@ -84,12 +85,6 @@ Soy un estudiante en proceso desarrollo en el mundo de la programacion. Aunque t
 
 <hr>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
@@ -115,7 +110,7 @@ Soy un estudiante en proceso desarrollo en el mundo de la programacion. Aunque t
 Si estás interesado en colaborar o trabajar juntos, ¡estaré encantado de escuchar de ti!
 
 <div align="center">
-    <a href="mailto:davidop.ti22@utsjr.edu.mx" style="margin-right: 5px;">
+    <a href="mailto:aarond.olguin@gmail.com" style="margin-right: 5px;">
         <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="50px" />
     </a>
     <a href="https://www.instagram.com/aarondavidolguin/" target='_blank'>
