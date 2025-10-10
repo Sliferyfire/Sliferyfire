@@ -1,11 +1,8 @@
 <h1 align="center">👨‍💻 Aarón Olguín - Desarrollador de Software</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin">
+  <a href="linkedin.com/in/aaron-david-olguin-pichardo-07352729b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/tu-twitter">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2" alt="Twitter">
   </a>
   <a href="https://github.com/Sliferyfire">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717" alt="GitHub">
